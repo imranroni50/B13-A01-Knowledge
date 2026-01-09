@@ -1,5 +1,5 @@
-*{margin: 0;
-
+*{
+margin: 0 ;
 }
 
 .font-open-senc{
@@ -29,10 +29,10 @@
 }
 .bat2{
     height: 24px;
-    width: 150px;px;
+    width: 150px;
     /* border: 1px solid red; */
     /* color: aliceblue; */
-    bac
+
 }
 .bat2:hover{
     background-color: green;
@@ -103,19 +103,25 @@ padding-top: 115px;
     margin-top: 10px;
     margin-left: 200px;
 }
+.arro{
+    /* display: flex; */
+}
 .box-6{
-    /* font-size:small; */
+    font-size:small;
     width: 200px;
     height: 19px;
     /* border: 1px solid red; */
     margin-left: 70px;
     padding-bottom: 10px;
-    padding-left: 80px;
+    padding-left: 15px;
     background-color: beige;
     border-radius: 10px;
     color: green;
     padding-top: 10px;
+    display: flex;
 }
+
+
 .color{
     width: 770px;
     /* height: 168px; */
@@ -300,7 +306,7 @@ width: 1600px;
 #foot{
     width: 1600px;
     height: 348px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(11, 11, 11);
     padding-top: 200px;
     /* padding-left: 120px; */
 
@@ -323,4 +329,15 @@ padding-left:120px;
     padding-left: 500px;
     padding-top: 200px;
     color: aliceblue;
+}
+.mode{
+    display: flex;
+gap: 15px;
+}
+.gap{
+    width: 20px;
+    height: 20px;
+}
+.gap:hover{
+    background-color: green;
 }
