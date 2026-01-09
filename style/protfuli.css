@@ -139,6 +139,8 @@ padding-top: 115px;
     background-color: green;
     font-size: 16px;
     color: aliceblue;
+    /* display: flex; */
+    font-size: small;
     
 }
 .batom-1:hover{
@@ -148,7 +150,7 @@ padding-top: 115px;
   width: 251px;
     height: 52px;
     background: none;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     color: aliceblue;
     font-size: 16px;
     padding-left: 10px;
@@ -298,6 +300,7 @@ width: 1600px;
     border-radius: 10px;
     padding-bottom: 10px;
     color: aliceblue;
+    
 
 }
 .batom1:hover{
@@ -306,7 +309,7 @@ width: 1600px;
 #foot{
     width: 1600px;
     height: 348px;
-    background-color: rgb(11, 11, 11);
+    background-color:rgb(33, 33, 54);
     padding-top: 200px;
     /* padding-left: 120px; */
 
