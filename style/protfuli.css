@@ -15,17 +15,27 @@
     overflow: hidden;
 }
 .navi{
-    justify-content: center;
+    /* justify-content: center; */
     /* border: 2px solid blue; */
-    margin: 34px 300px 30px 300px;
+    margin: 34px 290px 30px 290px;
     display: flex;
     /* justify-content: space-around; */
-    gap: 32px;
-    width: 400px;
-    height: 24px;
+    /* gap: 32px; */
+    /* width: 400px; */
+    /* height: 24px; */
     /* margin-top: 34px; */
    /* font-size: smaller; */
-   
+      
+}
+.bat2{
+    height: 24px;
+    width: 150px;px;
+    /* border: 1px solid red; */
+    /* color: aliceblue; */
+    bac
+}
+.bat2:hover{
+    background-color: green;
 }
 .ime{
     width: 130px;
@@ -56,6 +66,9 @@
     border-radius: 10px;
     padding-top: 20px;
     
+}
+.batom:hover{
+    background-color:black;
 }
 .box-3{
     background-image: url(../assets/hero-bg.png);
@@ -119,7 +132,11 @@ padding-top: 115px;
     height: 52px;
     background-color: green;
     font-size: 16px;
+    color: aliceblue;
     
+}
+.batom-1:hover{
+    background-color: black;
 }
 .batom-2{
   width: 251px;
@@ -131,6 +148,9 @@ padding-top: 115px;
     padding-left: 10px;
     
 
+}
+.batom-2:hover{
+    background-color: green;
 }
 .sect{
 width: 1600px;
@@ -219,6 +239,88 @@ height: 600;
 }
 .model-2{
     padding-left: 20px;
+    
 }
+.flx{
+    display: flex;
+}
+#model-3{
+/* border: 2px solid red; */
+width: 1600px;
+}
+.model-4{
+    border: 2px solid rgb(255, 255, 255);
+    width: 1360px;
+    height: 385px;
+    margin-left: 120px;
+    background-color: rgb(243, 241, 238);
+    border-radius: 10px;
+}
+.model-5{
+      width: 1280px;
+    height: 112px;
+   /* border: 1px solid blue; */
+   margin-left: 40px;
+   margin-top: 80px;
+  padding-right: 40px;
+}
+  .matha1{
+    justify-content: center;
+    padding-left: 400px;
+  }
+  .matha2{
+       padding-left: 400px;
+       font-size: 16px;
+  }
+  .matha3{
+    padding-left: 100px;
+  }
+.model-6{
+   
+    margin-top: 20px;
+    padding-left:550px ;
+    padding-bottom: 20px;
+}
+.model-7{
+       padding-left: 500px;
+       font-size: small;
+}
+.batom1{
+    width: 194px;
+    height: 52px;
+    background-color: green;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
 
-  
+}
+.batom1:hover{
+    background-color:black;
+}
+#foot{
+    width: 1600px;
+    height: 348px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 200px;
+    /* padding-left: 120px; */
+
+    }
+
+.rts{
+padding-left:120px;
+/* display: flex; */
+}
+.foot1{
+    display: flex;
+    gap: 1000px;
+}
+.matha7{
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.matha8{
+    padding-left: 500px;
+    padding-top: 200px;
+    color: aliceblue;
+}
